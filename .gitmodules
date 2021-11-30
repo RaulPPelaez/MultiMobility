@@ -1,0 +1,6 @@
+[submodule "libraries/UAMMD_PSE_Python"]
+	path = libraries/UAMMD_PSE_Python
+	url = git@github.com:RaulPPelaez/UAMMD_PSE_Python.git
+[submodule "libraries/BatchedNBodyRPY"]
+	path = libraries/BatchedNBodyRPY
+	url = git@github.com:RaulPPelaez/BatchedNBodyRPY.git
